@@ -10,4 +10,4 @@ An introduction to the basics of Jetpack Compose
 - Basic UI elements such as Row and Column
 
 ## Note
-**This was done in completion of activity 4: Jetpack Compose Basics**
+**This was done on completion of activity 4: Jetpack Compose Basics**
