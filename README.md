@@ -1,7 +1,7 @@
 # Basics CodeLab on Compose
 An introduction to the basics of Jetpack Compose
 
-# What I learnt 
+## What I learnt 
 - State and State Hoisting in Compose
 - Compose Theming
 - Creating a performant lazy list
