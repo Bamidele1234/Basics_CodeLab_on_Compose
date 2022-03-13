@@ -155,12 +155,18 @@ private fun CardContent(name: String) {
 
 @Preview(
     showBackground = true,
-    widthDp = 320,
+    widthDp = 393,
+    heightDp = 830,
     uiMode = UI_MODE_NIGHT_YES,
     name = "DefaultPreviewDark"
 )
 
-@Preview(showBackground = true, widthDp = 320)
+@Preview(
+    showBackground = true,
+    widthDp = 393,
+    heightDp = 830
+)
+
 @Composable
 fun DefaultPreview() {
     BasicsCodeLabTheme {
